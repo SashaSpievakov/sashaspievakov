@@ -44,8 +44,8 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 
 <br/>
 
-> :warning: **Email:** alexandr.pobeda99@gmail.com
+> <img src="assets/gmailnew.png" width="25">&nbsp;&nbsp; **Email:** alexandr.pobeda99@gmail.com
 
-> :memo: **Phone:** +1 (647) 473-9502
+> 📞&nbsp;&nbsp; **Phone:** +1 (647) 473-9502
 
-> :bulb: **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov-817a04253/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
+> <img src="assets/linkedin.png" width="25">&nbsp;&nbsp; **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov-817a04253/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
