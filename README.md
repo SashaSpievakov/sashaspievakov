@@ -1,16 +1,37 @@
-### Hi there 👋
+# What you need to know
 
-<!--
-**AlexandrSpevakov/alexandrspevakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 🇺🇦
+I'm a self-motivated frontend developer who strives on learning and improving. **Two years** ago I took my first step into programming and since then never doubted in my desicion. Even though the road ahead is not so easy I'm still looking for new challenges, could you give me a good one?
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+###### HTML: Semantics, Accessibility
+  
+###### CSS
+  * Responsive Design
+  * Sass / Scss
+  * PostCSS
+  * BEM
+  * CSS Modules
+  * Styled Components
+  * Bootstrap
+  * Material UI
+  
+###### JavaScript
+  * ES6+
+  
+###### React
+  * Function Components
+  * Hooks
+  * React Router 6
+  * Redux Toolkit
+  
+###### TypeScript
+
+###### Tools
+  * npm
+  * Gulp
+  * http / https
+  * git / GitHub
+  * terminal
