@@ -37,3 +37,15 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
   * http / https
   * git / GitHub
   * terminal
+
+<br/>
+
+## Contact me
+
+<br/>
+
+> :warning: **Email:** alexandr.pobeda99@gmail.com
+
+> :memo: **Phone:** +1 (647) 473-9502
+
+> :bulb: **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov-817a04253/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
