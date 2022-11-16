@@ -6,7 +6,7 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 <br/>
 
 ## Skills
-#### HTML
+#### HTML <img src="assets/html5.png" width="25">
   * Semantics
   * Accessibility
   
@@ -20,10 +20,10 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
   * Bootstrap
   * Material UI
   
-#### JAVASCRIPT
+#### JAVASCRIPT <img src="assets/javascript.png" width="25">
   * ES6+
   
-#### REACT
+#### REACT <img src="assets/react.png" width="25">
   * Function Components
   * Hooks
   * React Router 6
