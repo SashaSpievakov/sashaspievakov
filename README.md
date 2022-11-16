@@ -46,6 +46,6 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 
 > <img src="assets/gmailnew.png" width="25">&nbsp;&nbsp; **Email:** alexandr.pobeda99@gmail.com
 
-> 📞&nbsp;&nbsp; **Phone:** [+1 (647) 473-9502](+16474739502)
+> 📞&nbsp;&nbsp; **Phone:** [+1 (647) 473-9502]()
 
 > <img src="assets/linkedin.png" width="25">&nbsp;&nbsp; **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov-817a04253/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
