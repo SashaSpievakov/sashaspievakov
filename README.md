@@ -6,7 +6,9 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 <br/>
 
 ### Skills
-###### HTML: Semantics, Accessibility
+###### HTML
+  * Semantics
+  * Accessibility
   
 ###### CSS
   * Responsive Design
@@ -35,3 +37,16 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
   * http / https
   * git / GitHub
   * terminal
+
+### Skills
+**HTML:** Semantics, Accessibility
+  
+**CSS:** Responsive Design, (Sass / Scss), PostCSS, BEM, CSS Modules, Styled Components, Bootstrap, Material UI
+  
+**JavaScript:** ES6+
+  
+**React:** Function Components, Hooks, React Router 6, Redux Toolkit
+  
+**TypeScript**
+
+**Tools:** npm, Gulp, (http / https), (git / GitHub), terminal
