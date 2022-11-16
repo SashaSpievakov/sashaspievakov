@@ -10,7 +10,7 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
   * Semantics
   * Accessibility
   
-#### CSS
+#### CSS <img src="assets/css3.png" width="30">
   * Responsive Design
   * Sass / Scss
   * PostCSS
