@@ -6,11 +6,11 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 <br/>
 
 ## Skills
-###### HTML
+#### HTML
   * Semantics
   * Accessibility
   
-###### CSS
+#### CSS
   * Responsive Design
   * Sass / Scss
   * PostCSS
@@ -20,18 +20,18 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
   * Bootstrap
   * Material UI
   
-###### JAVASCRIPT
+#### JAVASCRIPT
   * ES6+
   
-###### REACT
+#### REACT
   * Function Components
   * Hooks
   * React Router 6
   * Redux Toolkit
   
-###### TYPESCRIPT
+#### TYPESCRIPT <img src="assets/typescript.png" width="25">
 
-###### TOOLS 🛠️
+#### TOOLS 🛠️
   * npm
   * Gulp
   * http / https
