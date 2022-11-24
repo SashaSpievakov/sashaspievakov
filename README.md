@@ -40,7 +40,7 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 #### TOOLS 🛠️
 
 - npm
-- Gulp
+- Gulp.js
 - git / GitHub
 - Figma
 - Photoshop
