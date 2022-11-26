@@ -42,6 +42,7 @@ I'm a self-motivated frontend developer who strives on learning and improving. *
 - npm
 - Gulp.js
 - git / GitHub
+- ESLint
 - Figma
 - Photoshop
 - http / https
