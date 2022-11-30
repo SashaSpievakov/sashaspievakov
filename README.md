@@ -2,7 +2,7 @@
 
 ### About me 🇺🇦
 
-I'm a self-motivated frontend developer who strives on learning and improving. **Two years** ago I took my first step into programming and since then never doubted my decision. I'm always looking for new challenges, could you give me a good one?
+I'm a self-motivated frontend developer who strives on learning and improve. **Two years** ago I took my first step into programming and since then never doubted my decision. I'm always looking for new challenges, could you give me a good one?
 
 <br/>
 
