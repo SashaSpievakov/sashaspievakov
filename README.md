@@ -6,38 +6,21 @@ From the moment I produced "Hello World" in the console of my first application,
 
 ## Technical Skills
 
-### Programming and Markup Languages <img src="assets/code.png" width="25">
+### Programming and Markup Languages <img src="assets/code.png" width="32">
 
 - JavaScript ES6+
 - HTML5
 - CSS3
 - TypeScript
 
-### Technologies and Frameworks <img src="assets/tech.png" width="25">
+### Technologies and Frameworks <img src="assets/tech.png" width="32">
 
-- React
-- Redux
-- Redux-Thunk
-- Redux Toolkit
-- React Router
-- Styled Components
-- Bootstrap
-- Material UI
-- SCSS / SASS
-- PostCSS
-- CSS Modules
-- BEM
+React, Redux, Redux-Thunk, Redux Toolkit, React Router, Styled Components, <br/>
+Bootstrap, Material UI, SCSS / SASS, PostCSS, CSS Modules, BEM
 
 ### Tools 🛠️
 
-- Git / GitHub
-- Gulp.js
-- ESLint
-- Prettier
-- npm / yarn
-- VSCode
-- Terminal
-- Figma
+Git / GitHub, Gulp.js, ESLint, Prettier, npm / yarn, VSCode, Terminal, Figma
 
 ## Contact me
 
