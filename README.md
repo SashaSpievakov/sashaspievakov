@@ -4,16 +4,17 @@
 
 From the moment I produced "Hello World" in the console of my first application, I knew I was hooked into the world of software development. But software development has never been "just a job" for me, it's offered an engaging challenge to continually learn and improve my skills in creating high-quality software. What started with a simple "Hello World" has become a full-fledged passion that only gets more exciting as the years go by.
 
-
 ## Technical Skills
 
-### Programming and Markup Languages: 
+### Programming and Markup Languages <img src="assets/code.png" width="25">
+
 - JavaScript ES6+
 - HTML5
 - CSS3
 - TypeScript
 
-### Technologies and Frameworks:
+### Technologies and Frameworks <img src="assets/tech.png" width="25">
+
 - React
 - Redux
 - Redux-Thunk
@@ -28,6 +29,7 @@ From the moment I produced "Hello World" in the console of my first application,
 - BEM
 
 ### Tools 🛠️
+
 - Git / GitHub
 - Gulp.js
 - ESLint
