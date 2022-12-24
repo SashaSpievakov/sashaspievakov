@@ -15,8 +15,8 @@ From the moment I produced "Hello World" in the console of my first application,
 
 ### Technologies and Frameworks <img src="assets/tech.png" width="32">
 
-React, Redux, Redux-Thunk, Redux Toolkit, React Router, Styled Components, <br/>
-Bootstrap, Material UI, SCSS / SASS, PostCSS, CSS Modules, BEM
+React, Redux, Redux-Thunk, Redux Toolkit, RTK Query, React Query, React Router, <br />
+Styled Components, Bootstrap, Material UI, SCSS / SASS, PostCSS, CSS Modules, BEM
 
 ### Tools 🛠️
 
