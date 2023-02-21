@@ -164,21 +164,6 @@
     </td>
     <td align="center" width="130">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50" height="50" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="130">
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="130">
-      <a href="#" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="50" height="50" alt="Npm" />
       </a>
       <br>Npm
@@ -188,6 +173,21 @@
         <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="50" height="50" alt="Yarn" />
       </a>
       <br>Yarn
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="130">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="130">
+      <a href="#" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+      </a>
+      <br>GitHub
     </td>
     <td align="center" width="130">
       <a href="#" >
