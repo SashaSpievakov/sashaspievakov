@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-### Programming and Markup Languages
+> ### Programming and Markup Languages
 
 <table width='100%'>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### Technologies and Frameworks
+> ### Technologies and Frameworks
 
 <table width='100%'>
   <tr>
@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-### Tools
+> ### Tools
 
 <table width='100%'>
   <tr>
