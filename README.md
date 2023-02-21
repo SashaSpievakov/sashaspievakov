@@ -2,42 +2,213 @@
 
 ## Summary
 
-From the moment I produced "Hello World" in the console of my first application, I knew I was hooked into the world of software development. But software development has never been "just a job" for me, it's offered an engaging challenge to continually learn and improve my skills in creating high-quality software. What started with a simple "Hello World" has become a full-fledged passion that only gets more exciting as the years go by.
+I always get excited about opportunities to work on innovative and challenging projects. Bold ideas motivate me to constantly develop my skills and stay up to date with modern technologies and best practices in frontend development.
 
-## Technical Skills
+## Tech Stack
 
 ### Programming and Markup Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/html.png" width="65" height="65" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/css.png" width="65" height="65" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+</table>
 
 ### Technologies and Frameworks
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="55" height="55" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQl" />
+      </a>
+      <br>GraphQl
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/apollo.png" width="55" height="55" alt="Apollo Client" />
+      </a>
+      <br>Apollo
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/react-query.svg" width="55" height="55" alt="React Query" />
+      </a>
+      <br>React Query
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/jest.png" width="55" height="55" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/testing-library.png" width="55" height="55" alt="Testing Library" />
+      </a>
+      <br>Testing Library
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/tailwind.png" width="55" height="55" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="55" height="55" alt="MUI" />
+      </a>
+      <br>MUI
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="55" height="55" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="55" height="55" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+</table>
 
 ### Tools
 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="50" height="50" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="50" height="50" alt="ESLint" />
+      </a>
+      <br>ESLint
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="45" height="45" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/gulp.png" width="55" height="55" alt="Gulp" />
+      </a>
+      <br>Gulp
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="50" height="50" alt="Npm" />
+      </a>
+      <br>Npm
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="50" height="50" alt="Yarn" />
+      </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/jira.png" width="50" height="50" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/netlify.png" width="50" height="50" alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 ## Contact me
 
