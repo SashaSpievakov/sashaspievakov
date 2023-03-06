@@ -49,7 +49,7 @@
     </td>
     <td align="center" width="140">
       <a href="#">
-        <img src="https://en.wikipedia.org/wiki/Angular_(web_framework)#/media/File:Angular_full_color_logo.svg" width="60" height="60" alt="Angular" />
+        <img src="./assets/angular.png" width="60" height="60" alt="Angular" />
       </a>
       <br>Angular
     </td>
