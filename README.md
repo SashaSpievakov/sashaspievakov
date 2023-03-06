@@ -78,7 +78,7 @@
       <br>React Query
     </td>
   </tr>
-    
+
   <tr>
     <td align="center" width="140">
       <a href="#" >
@@ -111,8 +111,14 @@
       <br>MUI
     </td>
   </tr>
-    
+
    <tr>
+   <td align="center" width="140">
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="55" height="55" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
     <td align="center" width="140">
       <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="55" height="55" alt="Bootstrap" />
@@ -121,9 +127,9 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="55" height="55" alt="Sass" />
+        <img src="./assets/bem.png" width="55" height="55" alt="BEM" />
       </a>
-      <br>Sass
+      <br>BEM
     </td>
   </tr>
 </table>
@@ -175,7 +181,7 @@
       <br>Yarn
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="130">
       <a href="#" >
