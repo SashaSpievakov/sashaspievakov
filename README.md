@@ -49,6 +49,12 @@
     </td>
     <td align="center" width="140">
       <a href="#">
+        <img src="https://en.wikipedia.org/wiki/Angular_(web_framework)#/media/File:Angular_full_color_logo.svg" width="60" height="60" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="140">
+      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="60" height="60" alt="Redux" />
       </a>
       <br>Redux
@@ -58,6 +64,33 @@
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="60" height="60" alt="Next.js" />
       </a>
       <br>Next.js
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/Rxjs.png" width="60" height="60" alt="RxJs" />
+      </a>
+      <br>RxJs
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/jest.png" width="60" height="60" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/testing-library.png" width="55" height="55" alt="Testing Library" />
+      </a>
+      <br>Testing Library
     </td>
     <td align="center" width="140">
       <a href="#" >
@@ -79,24 +112,12 @@
     </td>
   </tr>
 
-  <tr>
+   <tr>
     <td align="center" width="140">
       <a href="#" >
-        <img src="./assets/jest.png" width="60" height="60" alt="Jest" />
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="55" height="55" alt="MUI" />
       </a>
-      <br>Jest
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/testing-library.png" width="55" height="55" alt="Testing Library" />
-      </a>
-      <br>Testing Library
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
-      </a>
-      <br>Cypress
+      <br>MUI
     </td>
     <td align="center" width="140">
       <a href="#" >
@@ -106,24 +127,15 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="55" height="55" alt="MUI" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="55" height="55" alt="Bootstrap" />
       </a>
-      <br>MUI
+      <br>Bootstrap
     </td>
-  </tr>
-
-   <tr>
    <td align="center" width="140">
       <a href="#" >
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="55" height="55" alt="Sass" />
       </a>
       <br>Sass
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="55" height="55" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="140">
       <a href="#" >
