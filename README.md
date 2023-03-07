@@ -240,8 +240,8 @@
 
 <br/>
 
-> <img src="assets/gmailnew.png" width="25">&nbsp;&nbsp; **Email:** spievakov@gmail.com
+> <img src="assets/gmailnew.png" align="center" width="25">&nbsp;&nbsp; **Email:** spievakov@gmail.com
 
 > 📞&nbsp;&nbsp; **Phone:** <a href="tel:+1647473-9502">+1 (647) 473-9502</a>
 
-> <img src="assets/linkedin.png" width="25">&nbsp;&nbsp; **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
+> <img src="assets/linkedin.png" align="center" width="25">&nbsp;&nbsp; **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
