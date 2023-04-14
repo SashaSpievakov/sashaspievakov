@@ -1,4 +1,4 @@
-# Frontend Developer🇺🇦
+# Frontend Developer
 
 ### I always get excited about opportunities to work on innovative and challenging projects. Bold ideas motivate me to constantly develop my skills and stay up to date with modern technologies and best practices in frontend development.
 
@@ -49,12 +49,6 @@
     </td>
     <td align="center" width="140">
       <a href="#">
-        <img src="./assets/angular.png" width="60" height="60" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="140">
-      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="60" height="60" alt="Redux" />
       </a>
       <br>Redux
@@ -65,21 +59,6 @@
       </a>
       <br>Next.js
     </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/Rxjs.png" width="60" height="60" alt="RxJs" />
-      </a>
-      <br>RxJs
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
-      </a>
-      <br>Cypress
-    </td>
-  </tr>
-
-  <tr>
     <td align="center" width="140">
       <a href="#" >
         <img src="./assets/jest.png" width="60" height="60" alt="Jest" />
@@ -94,15 +73,18 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
+        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="60" height="60" alt="GraphQl" />
       </a>
       <br>GraphQl
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/apollo.png" width="60" height="60" alt="Apollo Client" />
-      </a>
-      <br>Apollo
     </td>
     <td align="center" width="140">
       <a href="#" >
@@ -110,28 +92,13 @@
       </a>
       <br>React Query
     </td>
-  </tr>
-
-   <tr>
     <td align="center" width="140">
       <a href="#" >
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="55" height="55" alt="MUI" />
+        <img src="./assets/apollo.png" width="60" height="60" alt="Apollo Client" />
       </a>
-      <br>MUI
+      <br>Apollo
     </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/tailwind.png" width="55" height="55" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="55" height="55" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-   <td align="center" width="140">
+     <td align="center" width="140">
       <a href="#" >
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="55" height="55" alt="Sass" />
       </a>
@@ -142,6 +109,27 @@
         <img src="./assets/bem.png" width="55" height="55" alt="BEM" />
       </a>
       <br>BEM
+    </td>
+  </tr>
+
+   <tr>
+     <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/tailwind.png" width="55" height="55" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="55" height="55" alt="MUI" />
+      </a>
+      <br>MUI
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="55" height="55" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
   </tr>
 </table>
@@ -243,5 +231,3 @@
 > <img src="assets/gmailnew.png" align="center" width="25">&nbsp;&nbsp; **Email:** spievakov@gmail.com
 
 > 📞&nbsp;&nbsp; **Phone:** <a href="tel:+1647473-9502">+1 (647) 473-9502</a>
-
-> <img src="assets/linkedin.png" align="center" width="25">&nbsp;&nbsp; **LinkedIn:** [https://www.linkedin.com/in/oleksandr-spievakov/](https://www.linkedin.com/in/oleksandr-spievakov-817a04253/)
