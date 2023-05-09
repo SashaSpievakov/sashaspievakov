@@ -1,4 +1,4 @@
-# Frontend Developer
+# Software Engineer
 
 ### I always get excited about opportunities to work on innovative and challenging projects. Bold ideas motivate me to constantly develop my skills and stay up-to-date with modern technologies and best practices in development.
 
