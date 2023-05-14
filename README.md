@@ -88,15 +88,15 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
-        <img src="./assets/react-query.svg" width="60" height="60" alt="React Query" />
-      </a>
-      <br>React Query
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
         <img src="./assets/apollo.png" width="60" height="60" alt="Apollo Client" />
       </a>
       <br>Apollo
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/react-query.svg" width="60" height="60" alt="React Query" />
+      </a>
+      <br>React Query
     </td>
      <td align="center" width="140">
       <a href="#" >
@@ -106,9 +106,9 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
-        <img src="./assets/bem.png" width="55" height="55" alt="BEM" />
+        <img src="./assets/storybook.png" width="55" height="55" alt="Storybook" />
       </a>
-      <br>BEM
+      <br>Storybook
     </td>
   </tr>
 
@@ -229,5 +229,3 @@
 <br/>
 
 > <img src="assets/gmailnew.png" align="center" width="25">&nbsp;&nbsp; **Email:** spievakov@gmail.com
-
-> 📞&nbsp;&nbsp; **Phone:** <a href="tel:+1647473-9502">+1 (647) 473-9502</a>
