@@ -106,7 +106,7 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
-        <img src="./assets/storybook.png" width="55" height="55" alt="Storybook" />
+        <img src="./assets/storybook.svg" width="55" height="55" alt="Storybook" />
       </a>
       <br>Storybook
     </td>
