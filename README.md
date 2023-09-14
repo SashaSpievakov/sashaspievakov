@@ -1,7 +1,5 @@
 # Frontend Developer
 
-<br/>
-
 ## Tech Stack
 
 > ### Programming and Markup Languages
