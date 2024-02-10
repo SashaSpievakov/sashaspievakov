@@ -193,7 +193,7 @@
     </td>
     <td align="center" width="130">
       <a href="#" >
-        <img src="./assets/gitlab.png" width="50" height="50" alt="GitLab" />
+        <img src="./assets/gitlab.svg" width="50" height="50" alt="GitLab" />
       </a>
       <br>GitLab
     </td>
@@ -226,7 +226,7 @@
   <tr>
     <td align="center" width="130">
       <a href="#">
-        <img src="./assets/rollup.png" width="50" height="50" alt="Rollup" />
+        <img src="./assets/rollup.svg" width="50" height="50" alt="Rollup" />
       </a>
       <br>Rollup
     </td>
