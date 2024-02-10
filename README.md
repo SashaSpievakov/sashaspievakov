@@ -69,6 +69,12 @@
     </td>
     <td align="center" width="140">
       <a href="#" >
+        <img src="./assets/gatsby.svg" width="60" height="60" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
         <img src="./assets/jest.png" width="60" height="60" alt="Jest" />
       </a>
       <br>Jest
@@ -78,12 +84,6 @@
         <img src="./assets/testing-library.png" width="55" height="55" alt="Testing Library" />
       </a>
       <br>Testing Library
-    </td>
-    <td align="center" width="140">
-      <a href="#" >
-        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
-      </a>
-      <br>Cypress
     </td>
   </tr>
 
@@ -117,6 +117,12 @@
         <img src="./assets/storybook.svg" width="55" height="55" alt="Storybook" />
       </a>
       <br>Storybook
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="./assets/cypress.png" width="55" height="55" alt="Cypress" />
+      </a>
+      <br>Cypress
     </td>
   </tr>
 
