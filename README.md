@@ -14,13 +14,13 @@
     </td>
     <td align="center" width="140">
       <a href="#">
-        <img src="./assets/node-js.svg" width="60" height="60" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60" height="60" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="140">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60" height="60" alt="Node.js" />
+        <img src="./assets/node-js.svg"  width="60" height="60" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
