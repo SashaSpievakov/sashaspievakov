@@ -127,6 +127,39 @@
   </tr>
 
    <tr>
+      <td align="center" width="140">
+        <a href="#" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="55" height="55" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="140">
+        <a href="#" >
+          <img src="./assets/mysql.svg" width="55" height="55" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="140">
+        <a href="#" >
+          <img src="./assets/express.svg" width="55" height="55" alt="Express" />
+        </a>
+        <br>Express
+      </td>
+      <td align="center" width="140">
+        <a href="#" >
+          <img src="./assets/mongodb.svg" width="55" height="55" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="140">
+        <a href="#" >
+          <img src="./assets/prisma.svg" width="55" height="55" alt="Prisma" />
+        </a>
+        <br>Prisma
+      </td>
+  </tr>
+
+   <tr>
      <td align="center" width="140">
       <a href="#" >
         <img src="./assets/tailwind.png" width="55" height="55" alt="Tailwind" />
