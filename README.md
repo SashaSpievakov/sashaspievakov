@@ -193,6 +193,12 @@
     </td>
     <td align="center" width="130">
       <a href="#" >
+        <img src="./assets/gitlab.png" width="50" height="50" alt="GitLab" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="130">
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" />
       </a>
       <br>Figma
@@ -214,6 +220,15 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code" />
       </a>
       <br>VS Code
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="130">
+      <a href="#">
+        <img src="./assets/rollup.png" width="50" height="50" alt="Rollup" />
+      </a>
+      <br>Rollup
     </td>
   </tr>
 </table>
