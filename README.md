@@ -14,9 +14,15 @@
     </td>
     <td align="center" width="140">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60" height="60" alt="TypeScript" />
+        <img src="./assets/node-js.svg" width="60" height="60" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="140">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60" height="60" alt="Node.js" />
+      </a>
+      <br>Node.js
     </td>
     <td align="center" width="140">
       <a href="#" >
@@ -29,6 +35,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
       </a>
       <br>HTML
+    </td>
+    <td align="center" width="140">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="60" height="60" alt="PHP" />
+      </a>
+      <br>PHP
     </td>
   </tr>
 </table>
