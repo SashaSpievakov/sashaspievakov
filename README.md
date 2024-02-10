@@ -147,6 +147,12 @@
       <br>Vite
     </td>
     <td align="center" width="130">
+      <a href="#">
+        <img src="./assets/rollup.svg" width="50" height="50" alt="Rollup" />
+      </a>
+      <br>Rollup
+    </td>
+    <td align="center" width="130">
       <a href="#" >
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="50" height="50" alt="ESLint" />
       </a>
@@ -157,12 +163,6 @@
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="50" height="50" alt="Prettier" />
       </a>
       <br>Prettier
-    </td>
-    <td align="center" width="130">
-      <a href="#" >
-        <img src="./assets/gulp.png" width="50" height="50" alt="Gulp" />
-      </a>
-      <br>Gulp
     </td>
     <td align="center" width="130">
       <a href="#" >
@@ -220,15 +220,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code" />
       </a>
       <br>VS Code
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130">
-      <a href="#">
-        <img src="./assets/rollup.svg" width="50" height="50" alt="Rollup" />
-      </a>
-      <br>Rollup
     </td>
   </tr>
 </table>
