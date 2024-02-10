@@ -133,12 +133,12 @@
         </a>
         <br>PostgreSQL
       </td>
-      <td align="center" width="140">
+      <!-- <td align="center" width="140">
         <a href="#" >
           <img src="./assets/mysql.svg" width="55" height="55" alt="MySQL" />
         </a>
         <br>MySQL
-      </td>
+      </td> -->
       <td align="center" width="140">
         <a href="#" >
           <img src="./assets/express.svg" width="55" height="55" alt="Express" />
