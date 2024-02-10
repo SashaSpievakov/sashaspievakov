@@ -244,7 +244,7 @@
   <tr>
     <td align="center" width="130">
       <a href="#" >
-        <img src="./assets/docker.png" width="50" height="50" alt="Docker" />
+        <img src="./assets/docker.svg" width="50" height="50" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -252,7 +252,7 @@
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS" />
       </a>
-      <br>AWS
+      <br>aws
     </td>
   </tr>
 </table>
